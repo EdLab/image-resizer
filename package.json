@@ -22,7 +22,7 @@
     "image-resizer": "./bin/image_resizer.js"
   },
   "engines": {
-    "node": "0.12.x"
+    "node": "10.x"
   },
   "dependencies": {
     "aws-sdk": "^2.540.0",
